@@ -1,0 +1,29 @@
+       h1 {
+           color:blueviolet;
+                      font-size: 30px;
+
+       }
+       h2 {
+        border-bottom: 2px solid blue;
+        margin-left: 80px;
+        font-style: italic;
+        background-color:aqua;
+        padding-left: 100px;
+        padding-right: 100px;
+        padding-bottom: 20px;
+        padding-top: 20px;
+
+
+
+
+
+
+       }
+       h3{
+           margin-left: 50px;
+           font-style: italic;
+
+       }
+       li{
+        margin-left: 120px;
+       }
